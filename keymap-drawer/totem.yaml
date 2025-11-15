@@ -34,12 +34,12 @@ layers:
   - {t: /, h: '&comment'}
   - {t: '''', h: FN}
   - SYSTEM
-  - {t: ESC, h: Navigation}
+  - {t: ESC, h: SUPER}
   - LEFT SHIFT
-  - {t: SPACE, h: Navigation}
+  - {t: SPACE, h: SUPER}
   - ENTER
   - SYSTEM
-  Navigation:
+  SUPER:
   - {t: ▽, type: trans}
   - Sft+Gui+ 3
   - Sft+Gui+ 4
@@ -92,7 +92,7 @@ layers:
   - {t: '!', h: LCTRL}
   - {t: '@', h: LEFT ALT}
   - {t: (, h: LSHFT}
-  - {t: ), h: Navigation}
+  - {t: ), h: SUPER}
   - '&press_two_keys MINUS GREATER_THAN'
   - '='
   - '4'

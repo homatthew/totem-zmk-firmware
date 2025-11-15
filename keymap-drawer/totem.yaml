@@ -21,7 +21,7 @@ layers:
   - {t: K, h: RSHFT}
   - {t: L, h: RIGHT ALT}
   - {t: ;, h: RCTRL}
-  - TAB
+  - {t: TAB, h: FN}
   - Z
   - X
   - C
@@ -172,23 +172,23 @@ layers:
   - MUTE
   - PLAY PAUSE
   - {t: ▽, type: trans}
+  - LEFT
+  - DOWN
+  - UP ARROW
+  - RIGHT
+  - {t: ▽, type: trans}
+  - {t: '&cm', type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '&cm'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}

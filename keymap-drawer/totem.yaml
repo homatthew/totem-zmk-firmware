@@ -22,7 +22,7 @@ layers:
   - {t: L, h: RIGHT ALT}
   - {t: ;, h: RCTRL}
   - {t: TAB, h: FN}
-  - Z
+  - {t: Z, h: FN}
   - X
   - C
   - V
@@ -43,9 +43,9 @@ layers:
   - {t: ▽, type: trans}
   - Sft+Gui+ 3
   - Sft+Gui+ 4
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - ''
+  - '-'
+  - +
+  - \
   - '-'
   - '='
   - '['
@@ -64,14 +64,14 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - ''
+  - '{'
+  - '}'
+  - '`'
   - Alt+ LEFT
   - ''
   - Alt+ RIGHT
   - {t: PAGE DOWN, h: toggle}
-  - '`'
+  - Gui+Sft+ C
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
